@@ -1,0 +1,20 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+d3d11: no D3D11 installed
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [ialmrnt5.dll 6.14.10.4436]
+    Renderer: Intel(R) 82945G Express Chipset Family
+    Vendor:   Intel
+    VRAM:     64 MB (via fallback)
+    Caps:     Shader=20 DepthRT=0 NativeDepth=0 NativeShadow=0 DF16=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\ \games in unity\THE BREAKER44_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\ \games in unity\THE BREAKER44_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\ \games in unity\THE BREAKER44_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\ \games in unity\THE BREAKER44_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  3.492 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
